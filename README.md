@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Sales_Planing_Calculator sales          |This repository contains simple codes to calculate    |https://github.com/FranAcheampong/Sales_Planing_Calculator     |
+| 2 |Caesar_Cipher            |This Repository contains codes on Caesar Cipher           |https://github.com/FranAcheampong/Caesar_Cipher      |
+| 3 |Effect_of_tax_revenue             |This repository contains codes on effect of tax on revenue            |https://github.com/FranAcheampong/Effect_of_tax_revenue       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
